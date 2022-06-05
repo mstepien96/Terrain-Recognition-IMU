@@ -5,7 +5,7 @@ __________________________________________________
 
 The aim of the project is to develop a terrain identification system based on inertial measurement units IMU streams collected from the lower limb. With such information, the control of a robotized prosthetic leg can be adapted to changes in its surrounding.
 
-The solution I came up with was to train a convolutional neural network to classify which terrain an unknown stream of data can represent. This allows for adjusting the prosthetic leg to the type of terrain (for example, grass or concrete). The accuracy of the CNN system is steadily above 90%.
+The solution my team came up with was to train a convolutional neural network to classify which terrain an unknown stream of data can represent. This allows for adjusting the prosthetic leg to the type of terrain (for example, grass or concrete). The accuracy of the CNN system is steadily above 90%.
 
 __________________________________________________
 
